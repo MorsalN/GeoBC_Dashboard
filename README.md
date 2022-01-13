@@ -1,11 +1,10 @@
-# DRA Dashboard for GeoBC
+# DRA Dashboard for GeoBC #### Internship Project
 #### Digital Road Atlas (DRA)
 
-## Internship Project
 
 
 
-### Results of Work 
+## Results of Work 
 
 !["Dashboard"](https://github.com/MorsalN/GeoBC_Dashboard/blob/main/FinalProduct.png)
 
