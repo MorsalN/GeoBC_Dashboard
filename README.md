@@ -1,4 +1,4 @@
-# DRA Dashboard for GeoBC #### Internship Project
+# DRA Dashboard for GeoBC 
 #### Digital Road Atlas (DRA)
 
 
